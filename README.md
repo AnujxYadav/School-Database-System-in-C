@@ -6,6 +6,6 @@ The following repository contains :
 
 -> About the project.pdf that will breaf about aout idea.
 
--> c++ code file.
+-> c++ code file with two binary files (teacher.dat and student.dat) usedd for storing the corresponding data.
 
 -> Student and Faculity program run screenshots.
